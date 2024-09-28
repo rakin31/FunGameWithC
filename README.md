@@ -25,6 +25,7 @@ How to Play:
 Requirements:
   Windows (for sound playback).
   A C compiler (e.g., GCC or MSVC).
-  The sound file (Luke-Bergs-Paradise-chosic.com_.wav) included in the project directory.
+  The sound file (Luke-Bergs-Paradise-chosic.com_.wav) can be found from the following google drive link:
+  https://drive.google.com/drive/folders/1COdlyi9EILTMHqqwlGJkJEynAkTXEAua?usp=sharing. Put this file on the same folder with game.cbp file.
 
 Feel free to try out the game and enjoy the music while solving this puzzle! 🎉
