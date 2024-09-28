@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1713507124 source:d:\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<MMSystem.h>
+	<string.h>
+
